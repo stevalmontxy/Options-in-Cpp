@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+# https://stackoverflow.com/questions/8237645/how-to-add-linux-executable-files-to-gitignore
+*
+!*.*
+!*/
